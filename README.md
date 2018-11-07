@@ -1,5 +1,6 @@
 # House-Prices-Advanced-Regression-Techniques
-## kaggle competition
+
+## Kaggle competition
 * 分析前準備
     * Exploratory Data Analysis
     * 資料標準化
