@@ -16,5 +16,10 @@
     * PCA降維
     * feature engineering
 
+## Notebook
+[Jupyter Notebook](https://github.com/m06800825/House-Prices-Advanced-Regression-Techniques/blob/master/house_price.ipynb)
+
 ## Reference
 * https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+
