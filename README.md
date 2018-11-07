@@ -17,7 +17,12 @@
     * feature engineering
 
 ## Notebook
-[house_prices_prediction](https://github.com/m06800825/House-Prices-Advanced-Regression-Techniques/blob/master/house_price.ipynb)
+[House Prices Prediction](https://github.com/m06800825/House-Prices-Advanced-Regression-Techniques/blob/master/house_price.ipynb)
+
+
+## Feature Description
+[Feature Description](https://github.com/m06800825/House-Prices-Advanced-Regression-Techniques/blob/master/columns_description.docx)
+
 
 ## Reference
 * https://www.kaggle.com/c/house-prices-advanced-regression-techniques
